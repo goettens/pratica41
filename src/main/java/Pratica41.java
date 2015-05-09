@@ -1,3 +1,7 @@
+
+import utfpr.ct.dainf.if62c.pratica.Circulo;
+import utfpr.ct.dainf.if62c.pratica.Elipse;
+
 public class Pratica41 {
     public static void main(String[] args) {
         
