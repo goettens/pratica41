@@ -1,11 +1,9 @@
 package utfpr.ct.dainf.if62c.pratica;
 
 
-import java.math.*;
-
 public class Elipse {
-    double x;
-    double y;
+    protected double x;
+    protected double y;
 
     public Elipse(double x, double y) {
         this.x = x;

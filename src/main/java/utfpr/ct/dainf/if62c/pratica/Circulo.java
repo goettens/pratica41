@@ -1,8 +1,5 @@
 package utfpr.ct.dainf.if62c.pratica;
 
-
-
-
 public class Circulo extends Elipse{
 
     public Circulo(double x) {
@@ -12,5 +9,4 @@ public class Circulo extends Elipse{
     @Override
     public double getPerimetro(){
         return 2*Math.PI*(this.x/2);
-    }
-}
+    }}
